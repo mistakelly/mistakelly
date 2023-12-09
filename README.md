@@ -15,8 +15,8 @@ Software Engineer
 * ⚡  Fun Fact: I think bout my Mum every second of the day.
 
 <a href="https://www.github.com/Kels413" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kels413?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/okoyekelvin347" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/okoyekelvin347?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
+src="https://img.shields.io/github/followers/Kels413?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.x.com/okoyekelvin347" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/okoyekelvin347?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
 /></a>
 
 ### Skills
@@ -35,10 +35,14 @@ src="https://img.shields.io/twitter/follow/okoyekelvin347?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Kels413"><img src="https://github-readme-stats.vercel.app/api?username=Kels413&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Kels413's GitHub stats" /></a>
+<a href="http://www.github.com/Kels413"><img src="https://github-readme-stats.vercel.app/api?username=Kels413&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Kels413's GitHub stats" /></a>
 
-<a href="http://www.github.com/Kels413"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kels413&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Kels413"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kels413&stroke=0891b2&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/Kels413"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kels413&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Kels413"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kels413&bg_color=ffffff&color=0891b2&line=0891b2&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Kels413" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kels413&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Kels413" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kels413&langs_count=10&title_color=f97316&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Kels413/simple_shell" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kels413&repo=simple_shell&title_color=f97316&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
