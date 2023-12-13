@@ -7,9 +7,7 @@ Software Engineer
 🌟 Passionate educator and coding enthusiast! 💻 Teaching brings me immense joy, and I'm in love with both C programming and Python. 🐍 Programming is not just a skill; it's my life's heartbeat. ❤️ Excited to share my knowledge on CSFree, my YouTube channel where I spread the coding love for free! 🚀 Let's learn and grow together! 🌐 #CSFree.
 
 * 🌍  I'm based in C Town
-* 🖥️  See my portfolio at [My website](http://folio-kels413.vercel.app)
 * ✉️  You can contact me at [okoyekelvin347@gmail.com](mailto:okoyekelvin347@gmail.com)
-* 🚀  I'm currently working on [Simple Shell](http://github.com/kels413/simple_shell)
 * 🧠  I'm learning Datastructures and Algorithm in C and Python
 * 🤝  I'm open to collaborating on opensource
 * ⚡  Fun Fact: I think bout my Mum every second of the day.
