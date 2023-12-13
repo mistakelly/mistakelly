@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-🌟 Passionate educator and coding enthusiast! 💻 Teaching brings me immense joy, and I'm in love with both C programming and Python. 🐍 Programming is not just a skill; it's my life's heartbeat. ❤️ Excited to share my knowledge on CSFree, my YouTube channel where I spread the coding love for free! 🚀 Let's learn and grow together! 🌐 #CSFree.
+🌟 Passionate educator and coding enthusiast! 💻 Teaching brings me immense joy, and I'm in love with both C programming, still trying to fall inlove with Python 🐍🤣. Programming is not just a skill; it's my life's heartbeat. ❤️ Planning on sharing my knowledge on CSFree, A YouTube channel where I intend to spread coding for free to everybody! cause that's what gives me happiness 💃 🚀 Let's learn, grow and drink BOBO together! 🫂 🌐 #CSFree.
 
 * 🌍  I'm based in C Town
-* ✉️  You can contact me at [okoyekelvin347@gmail.com](mailto:okoyekelvin347@gmail.com)
 * 🧠  I'm learning Datastructures and Algorithm in C and Python
 * 🤝  I'm open to collaborating on opensource
-* ⚡  Fun Fact: I think bout my Mum every second of the day.
+* ⚡  Fun Fact: I think bout my Mum ❤️ every second of the day.
 
 <a href="https://www.github.com/Kels413" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kels413?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a><a href="https://www.x.com/okoyekelvin347" target="_blank" rel="noreferrer"><img
