@@ -9,6 +9,7 @@ Software Engineer
 * 🧠  I'm learning Datastructures and Algorithm in C and Python
 * 🤝  I'm open to collaborating on opensource
 * ⚡  Fun Fact: I think bout my Mum ❤️ every second of the day.
+* 
 
 <a href="https://www.github.com/Kels413" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kels413?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a><a href="https://www.x.com/okoyekelvin347" target="_blank" rel="noreferrer"><img
