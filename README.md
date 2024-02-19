@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 
 -----------------
-🌟 Passionate educator and coding enthusiast! 💻 Teaching brings me immense joy, and I'm in love with both C programming, still trying to fall inlove with Python 🐍🤣. Programming is not just a skill; it's my life's heartbeat. ❤️ Planning on sharing my knowledge on CSFree, A YouTube channel where I intend to spread coding for free to everybody! cause that's what gives me happiness 💃 🚀 Let's learn, grow and drink BOBO together! 🫂 🌐 #CSFree.
+🌟 Passionate educator and coding enthusiast! 💻 Teaching brings me immense joy, and I'm in love with C programming, still trying to fall inlove with Python 🐍🤣. Programming is not just a skill; it's my life's heartbeat. ❤️ Planning on sharing my knowledge on CSFree, A YouTube channel where I intend to spread coding for free to everybody! cause that's what gives me happiness 💃 🚀 Let's learn, grow and drink BOBO together! 🫂 🌐 #CSFree.
 
 * 🌍  I'm based in C Town
 * 🧠  I'm learning Datastructures and Algorithm in C and Python
