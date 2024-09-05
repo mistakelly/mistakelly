@@ -18,6 +18,9 @@ src="https://img.shields.io/github/followers/mistakelly?logo=github&style=for-th
 src="https://img.shields.io/twitter/follow/https://twitter.com/MistarKelly?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
 /></a>
 
+
+[![Check out mistakelly's profile on stardev.io](https://stardev.io/developers/mistakelly/badge/languages/global.svg)](https://stardev.io/developers/mistakelly)
+
 ### Skills
 
 
