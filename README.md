@@ -8,7 +8,7 @@ Full-Stack Engineer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [kelvinokoye413@gmail.com](mailto:kelvinokoye413@gmail.com)
-* 🚀  I'm currently working on [Airbnb\_clone console](http://https://github.com/mistakelly/AirBnB_clone)
+* 🚀  I'm currently working on [MediumX, an extended version of medium](https://github.com/mistakelly/MediumX)
 * 🧠  I'm learning Datastructure and Algorithm
 * 🤝  I'm open to collaborating on open source
 * ⚡  My Mum is my life 💯
