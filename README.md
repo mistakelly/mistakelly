@@ -15,6 +15,6 @@ contracts, real-time state, and compute that will not fit inside a request cycle
 **Stack** · TypeScript · NestJS · Node.js · PostgreSQL · Redis · RabbitMQ ·
 Celery · Python · Docker · React
 
-[Portfolio](https://your-netlify-url.netlify.app) ·
+[Portfolio](https://kelvin-okoye.netlify.app/) ·
 [LinkedIn](https://www.linkedin.com/in/kelvin-okoye-a96a97398/) ·
 okoyekelvin347@gmail.com
